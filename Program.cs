@@ -10,6 +10,7 @@ namespace teste
             Console.WriteLine("Oi");
             Console.WriteLine("Tudo bem");
             Console.WriteLine("To bem");
+            Console.ReadKey();
         }
     }
 }
