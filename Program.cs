@@ -11,6 +11,8 @@ namespace teste
             Console.WriteLine("Tudo bem");
             Console.WriteLine("To bem");
             Console.ReadKey();
+            Console.WriteLine();
+
         }
     }
 }
